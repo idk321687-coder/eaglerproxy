@@ -27,6 +27,7 @@
     "prismarine-registry": "1.6.0",
     "semver": "^7.6.3",
     "sharp": "^0.33.5",
+    "typescript": "^5.9.3",
     "ws": "^8.18.1"
   },
   "overrides": {
