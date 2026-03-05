@@ -12,7 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "@thi.ng/leb128": "3.0.5",
-    "@types/node": "18.11.18",
     "@types/semver": "7.3.13",
     "@types/sharp": "0.31.1",
     "@types/ws": "8.5.4",
@@ -33,5 +32,11 @@
   "overrides": {
     "axios": "^1.8.2"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^25.3.3"
+  },
+  "engines": {
+    "node": "24.x"
+  }
 }
