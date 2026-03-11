@@ -43,8 +43,8 @@ export const config = {
             originBlacklist: null,
         },
         server: {
-            host: "157.180.106.62",
-            port: 22860,
+            host: "node-fi-free-04.tickhosting.com",
+            port: 41600,
         },
         tls: undefined,
     },
