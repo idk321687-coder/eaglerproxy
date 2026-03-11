@@ -44,7 +44,7 @@ export const config = {
         },
         server: {
             host: "calebscoolserver.swiftservers.org",
-            port: 25565
+            port: 40000
         },
         tls: undefined,
     },
