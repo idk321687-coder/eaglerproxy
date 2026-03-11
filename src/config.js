@@ -43,8 +43,8 @@ export const config = {
             originBlacklist: null,
         },
         server: {
-            host: "node-fi-free-04.tickhosting.com",
-            port: 41600,
+            host: "calebscoolserver.swiftservers.org",
+            port: null,
         },
         tls: undefined,
     },
