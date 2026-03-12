@@ -43,8 +43,8 @@ export const config = {
             originBlacklist: null,
         },
         server: {
-            host: "calebscoolserver.swiftservers.org",
-            port: 40000
+            host: "168.119.78.155",
+            port: 38087
         },
         tls: undefined,
     },
